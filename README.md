@@ -2,7 +2,7 @@
 
 👋 Hello, I am Ritam Barman (aka Typhoon). I am a Javascript Developer and an Aerospace Engineering student. I love developing Discord bots and websites and learnig Python.
 
-🔗 Mail : [typhoon@rilp-bot.tech](mailto:typhoon@rilp-bot.tech)\n
+🔗 Mail : [typhoon@rilp-bot.tech](mailto:typhoon@rilp-bot.tech) <br />
 🔗 Discord : [Typhoon#0800](https://discord.com/users/455046083953950731)
 
 ## Organizations
