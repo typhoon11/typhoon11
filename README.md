@@ -12,7 +12,7 @@
 <!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&cover_image=false&theme=default&bar_color=f525e6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&redirect=true)
 
-## My Language Stats
+## My GitHub Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=typhoon11&count_private=true&show_icons=true&theme=nightowl)](https://github.com/typhoon11)
 
 ## Languages Used in my Projects
