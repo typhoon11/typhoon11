@@ -8,6 +8,9 @@
 ## Organizations
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/455046083953950731?animated=true)](https://discord.com/users/455046083953950731)
+
 ## Music Tracking
 <!-- https://github.com/kittinan/spotify-github-profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&cover_image=false&theme=default&bar_color=f525e6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&redirect=true)
