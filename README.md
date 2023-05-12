@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-👋 Hello, I am Ritam Barman (aka Typhoon). I am a full stack developer and an Aerospace Engineering student from Amity University. I love developing Discord bots and websites and I am currently learnig Python. The project I am currently working on is [RILP BOT](https://rilp-bot.tech)
+👋 Hello, I am Ritam Barman (aka Typhoon). I am a full stack developer and an Aerospace Engineering student from Amity University. I love developing Discord bots and websites and I am currently learnig C and PyTorch. The project I am currently working on is [RILP BOT](https://rilp-bot.tech)
 
 🔗 Mail : [typhoon@rilp-bot.tech](mailto:typhoon@rilp-bot.tech) <br />
 🔗 Discord : [Typhoon#0800](https://discord.com/users/455046083953950731)
