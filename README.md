@@ -5,7 +5,7 @@
 - [AmiHub](https://amihub.me) [Alpha Build] (More features soon)
 
 🔗 Mail : [typhoon@rilp-bot.tech](mailto:typhoon@rilp-bot.tech) <br />
-🔗 Discord : [Typhoon#0800](https://discord.com/users/455046083953950731)
+🔗 Discord : [@typhoon1102](https://discord.com/users/455046083953950731)
 
 ## Organizations
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
