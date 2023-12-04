@@ -15,7 +15,7 @@
 
 ## Music Tracking
 <!-- https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&cover_image=false&theme=default&bar_color=f525e6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k3lqhwjoiu4dpdqlqiajysc23i&redirect=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000790.b4000f7f3c8e4174a20ee8d7aecb98fb.0751)](https://github.com/rayriffy/apple-music-github-profile)
 
 ## My GitHub Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=typhoon11&count_private=true&show_icons=true&theme=nightowl)](https://github.com/typhoon11)
